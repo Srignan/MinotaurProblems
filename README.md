@@ -1,4 +1,4 @@
-# MinotaurProblems- Srignan Paruchuru
+# Minotaur Problems - Srignan Paruchuru
 ## Problem One:
 The leader is the first person to go in. If the plate is empty, the leader counts it using a counter. Once the counter hits N(the guest number), the program breaks. Since there is a q implemented, all of the guests will be entered in the first iteration but the leader would not know that. It seems like something a sneaky Minotaur would do to troll the guests. I could have made a function where the guest who enter are randomized but the end result is the same as the leader counts to N number either way.
 

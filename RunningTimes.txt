@@ -1,0 +1,10 @@
+Birthday Scenario:       N = 10     Execution Time: 3245300 Nanoseconds
+			       N = 100    Execution Time: 33995600 Nanoseconds
+			       N = 1000   Execution Time: 1658353200 Nanoseconds
+
+Crystal Vase Scenario:   N = 10     Execution Time: 8825000 Nanoseconds
+			       N = 100    Execution Time: 16961200 Nanoseconds
+				 N = 1000   Execution Time: 33882900 Nanoseconds
+
+
+			 
